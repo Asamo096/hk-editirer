@@ -1,7 +1,7 @@
 # 🎮 Hollow Knight Save Editor
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: Parity 7.0.0](https://img.shields.io/badge/License-Parity%207.0.0-blue.svg)](https://paritylicense.com/versions/7.0.0.html)
 [![Hollow Knight](https://img.shields.io/badge/game-Hollow%20Knight-orange.svg)](https://www.hollowknight.com/)
 
 > 一个功能强大的空洞骑士存档修改器，支持命令行、图形界面和Web界面三种模式。
@@ -29,8 +29,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/hollow-knight-save-editor.git
-cd hollow-knight-save-editor
+git clone https://github.com/Asamo096/hk-editer.git
+cd hk-editer
 
 # 安装依赖
 pip install -r requirements.txt
